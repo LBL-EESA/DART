@@ -1,2 +1,2 @@
 # DART
-Depth-first search on Atmospheric River lifecycle Tracking
+Depth-first Atmospheric River lifecycle Tracking
