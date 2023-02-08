@@ -16,4 +16,4 @@ See results in [Zhou et al. 2021](https://agupubs.onlinelibrary.wiley.com/doi/fu
 2. Track AR lifecycle using [ARTRACK.py](https://github.com/LBL-EESA/DART/blob/main/ARTRACK.py). <br>
 
 ### Output
-The output of [FindGenesis.py](https://github.com/LBL-EESA/DART/blob/main/FindGenesis.py)
+The output of [FindGenesis.py](https://github.com/LBL-EESA/DART/blob/main/FindGenesis.py) is a array of binary masks of AR genesis.  
